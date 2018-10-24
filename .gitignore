@@ -1,3 +1,4 @@
 inspect.lua
+
 luacov.*
 *.src.rock
