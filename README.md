@@ -1,7 +1,7 @@
 # httpclient
 `httpclient` is a unified wrapper around a few common http/s libraries and methods.
 
-The use case for this was being able to use an internal Github API client via openresty/`ngx.location.capture` and also outside of openresty using `luasocket` and `luasec`.
+The use case for this project was being able to use an internal Github API client via openresty/`ngx.location.capture` and also outside of openresty using `luasocket` and `luasec`.
 
 The `luasocket.http` API is a bit different than the ngx api. This provides a "familiar" interface to both.
 
