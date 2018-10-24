@@ -15,4 +15,4 @@ else
 	lua $?
 endif
 
-.PHONY: install test
+..PHONY: install test
